@@ -35,7 +35,13 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
-![WhatsApp Image 2024-04-03 at 11 21 12_8664b689](https://github.com/harshiniyu/HALF_ADDER_SUBTRACTOR/assets/144979786/678b3dbf-a998-4b5a-b9ae-21bfa2bad85b)
+![WhatsApp Image 2024-04-03 at 11 22 40_3df7f544](https://github.com/harshiniyu/HALF_ADDER_SUBTRACTOR/assets/144979786/8bea00be-c679-47ba-91c4-7205ae999e16)
+
+
+
+![WhatsApp Image 2024-04-03 at 11 22 53_f43c7642](https://github.com/harshiniyu/HALF_ADDER_SUBTRACTOR/assets/144979786/bcfbca93-909e-433e-9145-72baa5ac7958)
+
+
 
 **Procedure**
 
